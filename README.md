@@ -23,7 +23,7 @@ To run this project locally on your machine, follow these steps:
 
 ### 3. Environment Configuration
 1. Create a file named `.env` in the root directory.
-2. Add your Google Gemini API key (get one from [Google AI Studio](https://aistudio.google.com/app/apikey)):
+2. Add your Google Gemini API key 
    ```env
    GEMINI_API_KEY=your_actual_api_key_here
    ```
